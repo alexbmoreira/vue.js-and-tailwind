@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <div class="bg-yellow-400 text-4xl">This element was styled with Tailwind, and the font is from Google Fonts</div>
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>
