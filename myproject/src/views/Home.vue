@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <div class="bg-yellow-400 text-4xl">This element was styled with Tailwind, and the font is from Google Fonts</div>
+    <div class="bg-yellow-400 text-4xl font-quicksand">This element was styled with Tailwind, and the font is from Google Fonts</div>
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>
