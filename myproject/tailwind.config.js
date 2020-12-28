@@ -15,6 +15,9 @@ module.exports = {
       'sm': {'max': '639px'},
       // => @media (max-width: 639px) { ... }
     },
+    fontFamily: {
+      'quicksand': ['Quicksand', 'sans-serif']
+    },
     extend: {},
   },
   variants: {
